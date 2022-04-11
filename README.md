@@ -6,7 +6,7 @@ I am a Programmer and teacher.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on earning my Master's in Computer Science with a double concentration in Theory & Systems.
+🔭 I’m currently earning my master's in Computer Science with a double concentration in Theory & Systems.
 🌱 I’m currently learning Data Structures, Y86 architecture, theory.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
