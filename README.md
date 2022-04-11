@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m earning my Master's in Computer Science with a double concentration in Theory & Systems.
 - 🌱 I’m currently learning Data Structures, Y86 architecture, and decideability theory.
-- ⚡ I'm interested in AI, computer graphics, and algorithmic theory.
+- ⚡ I'm interested in AI, graphics, embedded systems, and algorithmic theory.
 - 📫 How to reach me: richardsonlw@appstate.edu
