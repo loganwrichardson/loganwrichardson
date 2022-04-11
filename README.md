@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on earning my Master's in Computer Science with a double concentration in Theory & Systems.
-🌱 I’m currently learning Data Structures, Y86 architecture, theory.
- 📫 How to reach me: richardsonlw@appstate.edu
+- 🔭 I’m currently working on earning my Master's in Computer Science with a double concentration in Theory & Systems.
+- 🌱 I’m currently learning Data Structures, Y86 architecture, theory.
+- 📫 How to reach me: richardsonlw@appstate.edu
