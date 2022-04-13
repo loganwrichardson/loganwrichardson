@@ -1,6 +1,6 @@
 ### こんにちわ! Hello! I'm Logan. 👋
 
-I am a Programmer and teacher.
+I am a programmer and teacher.
 <!--
 **loganwrichardson/loganwrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
