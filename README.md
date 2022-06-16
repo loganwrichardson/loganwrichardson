@@ -1,4 +1,4 @@
-### こんにちわ! Hello! I'm Logan. 👋
+### こんにちわ! Hello! I'm Logan.
 
 I am a programmer and teacher.
 <!--
