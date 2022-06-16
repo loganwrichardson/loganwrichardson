@@ -17,6 +17,7 @@ I’m currently learning Data Structures, Y86 architecture, and theory.
 -->
 
 - I’m earning my Master's in Computer Science with a double concentration in Theory & Systems.
-- I’m currently learning Data Structures, Y86 architecture, and decideability theory.
-- I'm interested in AI, graphics, embedded systems, and algorithmic theory.
+- I’m currently studying parallel programming, flutter, and microarchitecture.
+- I'm an embedded systems engineer for App State's solar vehicle team.
+- I'm very interested in theory and AI.
 - How to reach me: richardsonlw@appstate.edu
