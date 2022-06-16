@@ -6,8 +6,8 @@ I am a programmer and teacher.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently earning my master's in Computer Science with a double concentration in Theory & Systems.
-🌱 I’m currently learning Data Structures, Y86 architecture, and theory.
+I’m currently earning my master's in Computer Science with a double concentration in Theory & Systems.
+I’m currently learning Data Structures, Y86 architecture, and theory.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m earning my Master's in Computer Science with a double concentration in Theory & Systems.
-- 🌱 I’m currently learning Data Structures, Y86 architecture, and decideability theory.
-- ⚡ I'm interested in AI, graphics, embedded systems, and algorithmic theory.
-- 📫 How to reach me: richardsonlw@appstate.edu
+- I’m earning my Master's in Computer Science with a double concentration in Theory & Systems.
+- I’m currently learning Data Structures, Y86 architecture, and decideability theory.
+- I'm interested in AI, graphics, embedded systems, and algorithmic theory.
+- How to reach me: richardsonlw@appstate.edu
