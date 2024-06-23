@@ -15,6 +15,7 @@ I’m currently learning Data Structures, Y86 architecture, and theory.
 
 Hello everyone!
 - I’m earning my Master's in Computer Science with a concentration in Systems.
+- Before finding my way to engineering, I earned Bachelors' Degrees in Political Science & Global Studies.
 - I’m currently a research assistant studying colony collapse disorder using Python.
 - Recently, I interned at Blue Origin's Launch Site One in West Texas.
 - In addition, I previously worked as a software engineer for App State's Team Sunergy, Solar Vehcile Racing Team.
