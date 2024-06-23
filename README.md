@@ -40,14 +40,8 @@ Software Engineering: Agile, Application Development, Data Analysis, Data Struct
 
 Development, Parallel Programming, Proof Modeling In Agda, Scrum, Sprint <br><br>
 
-Soft Skills: Communication, Crisis Intervention, Cross Disciplinary Collaboration, Leadership,
-Management, Project Management, Research, Staff Training & Development, Teaching, Team Management,
-Technical & Research Writing <br><br>
-
-Spoken Languages: English, Japanese (Intermediate), Spanish (Beginner) <br><br>
-
 Tools: AWS, Remote Interpreters <br><br>
 
 Version Control: Git, GitHub, GitLabs <br><br>
 
-- Reach me at logan.richardson90@gmail.com
+### Reach me at logan.richardson90@gmail.com
