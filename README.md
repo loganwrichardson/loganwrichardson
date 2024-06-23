@@ -14,11 +14,11 @@ I’m currently learning Data Structures, Y86 architecture, and theory.
 -->
 
 Hello everyone!
-- I’m earning my Master's in Computer Science with a concentration in Systems.
-- Before finding my way to engineering, I earned Bachelors' Degrees in Political Science & Global Studies.
-- I’m currently a research assistant studying colony collapse disorder using Python.
-- Recently, I interned at Blue Origin's Launch Site One in West Texas.
-- In addition, I previously worked as a software engineer for App State's Team Sunergy, Solar Vehcile Racing Team.
+I’m earning my Master's in Computer Science with a concentration in Systems.
+Before finding my way to engineering, I earned Bachelors' Degrees in Political Science & Global Studies.
+I’m currently a research assistant studying colony collapse disorder using Python.
+Recently, I interned at Blue Origin's Launch Site One in West Texas.
+In addition, I previously worked as a software engineer for App State's Team Sunergy, Solar Vehcile Racing Team.
 
 ### Tech Skills
 <b>Coding Languages:</b> Agda, C (1.5 Years), CSS, Dart, Haskell, HTML, Java (3.5 Years), JavaScript (1 Year), Markdown, LaTeX, Python (2 Years), Typescript (4 Months), Node.js <br>
