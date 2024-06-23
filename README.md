@@ -20,24 +20,24 @@ Hello everyone!
 - In additino, I have previously worked as a software engineer for App State's Team Sunergy, Solar Vehcile Racing Team.
 
 ### Tech Skills
-<b>Coding Languages:</b> Agda, C (1.5 Years), CSS, Dart, Haskell, HTML, Java (3.5 Years), JavaScript (1 Year), Markdown, LaTeX, Python (2 Years), Typescript (4 Months), Node.js <br><br>
+<b>Coding Languages:</b> Agda, C (1.5 Years), CSS, Dart, Haskell, HTML, Java (3.5 Years), JavaScript (1 Year), Markdown, LaTeX, Python (2 Years), Typescript (4 Months), Node.js <br>
 
-<b>Electrical:</b> Battery Arrays, Battery Management Systems, Controller Area Network (CAN) Bus, Debugging, Multimeters, Oscilloscopes, Real Time Data Display, Software-Hardware Interface, Soldering, Wiring <br><br>
+<b>Electrical:</b> Battery Arrays, Battery Management Systems, Controller Area Network (CAN) Bus, Debugging, Multimeters, Oscilloscopes, Real Time Data Display, Software-Hardware Interface, Soldering, Wiring <br>
 
-<b>Frameworks:</b> Angular, Bootstrap, Express, Flutter, Node <br><br>
+<b>Frameworks:</b> Angular, Bootstrap, Express, Flutter, Node <br>
 
-<b>IDEs:</b> Android Studio, Arduino IDE, Code Composer Studio, Eclipse, Energia, Keil uVision, PyCharm, CLion, Vim, Visual Studio Code (VScode) <br><br>
+<b>IDEs:</b> Android Studio, Arduino IDE, Code Composer Studio, Eclipse, Energia, Keil uVision, PyCharm, CLion, Vim, Visual Studio Code (VScode) <br>
 
-<b>Libraries:</b> Custom Tkinter, MatplotLib, Multiprocessing, NumPy, OS, Pandas, Plotly, SciKitLearn <br><br>
+<b>Libraries:</b> Custom Tkinter, MatplotLib, Multiprocessing, NumPy, OS, Pandas, Plotly, SciKitLearn <br>
 
-<b>Operating Systems:</b> Linux (Ubuntu), Windows <br><br>
+<b>Operating Systems:</b> Linux (Ubuntu), Windows <br>
 
-<b>Skills:</b> Data Visualization, GUI Development, Web Scraping <br><br>
+<b>Skills:</b> Data Visualization, GUI Development, Web Scraping <br>
 
-<b>Software Engineering:</b> Agile, Application Development, Data Analysis, Data Structures, Kanban, Mobile Development, Parallel Programming, Proof Modeling In Agda, Scrum, Sprint <br><br>
+<b>Software Engineering:</b> Agile, Application Development, Data Analysis, Data Structures, Kanban, Mobile Development, Parallel Programming, Proof Modeling In Agda, Scrum, Sprint <br>
 
-<b>Tools:</b> AWS, Remote Interpreters <br><br>
+<b>Tools:</b> AWS, Remote Interpreters <br>
 
-<b>Version Control:</b> Git, GitHub, GitLabs <br><br>
+<b>Version Control:</b> Git, GitHub, GitLabs <br>
 
 ### Reach me at logan.richardson90@gmail.com
