@@ -13,7 +13,7 @@ I’m currently learning Data Structures, Y86 architecture, and theory.
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone!
+Hello everyone!<br>
 I’m earning my Master's in Computer Science with a concentration in Systems.<br>
 I’m currently a research assistant studying colony collapse disorder using Python.<br>
 I recently interned at Blue Origin's Launch Site One in West Texas.<br>
