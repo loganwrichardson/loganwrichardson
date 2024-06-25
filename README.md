@@ -20,7 +20,7 @@ I recently interned at Blue Origin's Launch Site One in West Texas.<br>
 In addition, I previously worked as a software engineer for App State's Team Sunergy, Solar Vehcile Racing Team.<br>
 
 ### Tech Skills
-<b>Coding Languages:</b> Agda, C (1.5 Years), CSS, Dart, Haskell, HTML, Java (3.5 Years), JavaScript (1 Year), Markdown, LaTeX, Python (2 Years), Typescript (4 Months), Node.js <br>
+<b>Coding Languages:</b> Agda, C, CSS, Dart, Haskell, HTML, Java, JavaScript, Markdown, LaTeX, Python, Typescript, Node.js <br>
 
 <b>Electrical:</b> Battery Arrays, Battery Management Systems, Controller Area Network (CAN) Bus, Debugging, Multimeters, Oscilloscopes, Real Time Data Display, Software-Hardware Interface, Soldering, Wiring <br>
 
